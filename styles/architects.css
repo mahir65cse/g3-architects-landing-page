@@ -149,7 +149,13 @@ nav ul li {
 .sponsors-images img {
   margin-left: 120px;
 }
-
+footer {
+  border-radius: 8px;
+  background: rgb(255, 244, 231);
+  text-align: center;
+  margin-top: 130px;
+  padding: 40px 0px;
+}
 /* media query for small device */
 @media screen and (max-width: 576px) {
   nav {
@@ -185,11 +191,11 @@ nav ul li {
   .some-facts {
     margin: 0 auto;
   }
-  .sponsors-images img{
+  .sponsors-images img {
     margin-bottom: 20px;
     width: 180px;
   }
-  .sponsors-images{
+  .sponsors-images {
     align-items: center;
     margin-left: 70px;
   }
@@ -217,11 +223,11 @@ nav ul li {
   .facts {
     margin-left: 50px;
   }
-  .sponsors-images img{
+  .sponsors-images img {
     margin-bottom: 20px;
     width: 180px;
   }
-  .sponsors-images{
+  .sponsors-images {
     align-items: center;
     margin-left: 60px;
   }
